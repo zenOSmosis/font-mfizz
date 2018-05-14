@@ -1,7 +1,9 @@
-Font Mfizz by Fizzed
+[Dockerized] Font Mfizz by Fizzed
 =======================================
 
  - [Fizzed, Inc.](http://fizzed.com) (Follow on Twitter: [@fizzed_inc](http://twitter.com/fizzed_inc))
+
+A build system for Font MFizz, with Docker support, instead of Vagrant.
 
 ## Vector Icons for Technology and Software Geeks
 
