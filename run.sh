@@ -9,4 +9,5 @@ echo "Launching new container"
 sudo docker run \
     -v $(pwd):/app \
     --name=${DOCKER_IMAGE_NAME} \
-    -ti ${DOCKER_BUILD_TAG}
+    -ti ${DOCKER_BUILD_TAG} \
+    java -jar blaze.jar
