@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d82dbe1d6bf6d84643ba052b50c88c2dd29d80ff5a95d8b05d50fe2e8142de4b",
-    "current": "d82dbe1d6bf6d84643ba052b50c88c2dd29d80ff5a95d8b05d50fe2e8142de4b"
+    "previous": "d8598579915884ab5e272359ebbfaad919deb339061d885d9a9a5832675fd808",
+    "current": "d8598579915884ab5e272359ebbfaad919deb339061d885d9a9a5832675fd808"
   },
   "fonts": [
     "build/font/font-mfizz.ttf",
@@ -530,61 +530,73 @@
       "codepoint": 61825,
       "source": "./src/svg/sitefinity.svg"
     },
-    "solaris": {
+    "socket-io": {
       "codepoint": 61826,
+      "source": "./src/svg/socket-io.svg"
+    },
+    "solaris": {
+      "codepoint": 61827,
       "source": "./src/svg/solaris.svg"
     },
     "splatter": {
-      "codepoint": 61827,
+      "codepoint": 61828,
       "source": "./src/svg/splatter.svg"
     },
     "spring": {
-      "codepoint": 61828,
+      "codepoint": 61829,
       "source": "./src/svg/spring.svg"
     },
     "suse": {
-      "codepoint": 61829,
+      "codepoint": 61830,
       "source": "./src/svg/suse.svg"
     },
     "svg": {
-      "codepoint": 61830,
+      "codepoint": 61831,
       "source": "./src/svg/svg.svg"
     },
     "symfony": {
-      "codepoint": 61831,
+      "codepoint": 61832,
       "source": "./src/svg/symfony.svg"
     },
     "tomcat": {
-      "codepoint": 61832,
+      "codepoint": 61833,
       "source": "./src/svg/tomcat.svg"
     },
     "typescript-alt": {
-      "codepoint": 61833,
+      "codepoint": 61834,
       "source": "./src/svg/typescript-alt.svg"
     },
     "ubuntu": {
-      "codepoint": 61834,
+      "codepoint": 61835,
       "source": "./src/svg/ubuntu.svg"
     },
     "unity": {
-      "codepoint": 61835,
+      "codepoint": 61836,
       "source": "./src/svg/unity.svg"
     },
     "virtualbox": {
-      "codepoint": 61836,
+      "codepoint": 61837,
       "source": "./src/svg/virtualbox.svg"
     },
+    "web-rtc": {
+      "codepoint": 61838,
+      "source": "./src/svg/web-rtc.svg"
+    },
     "wireless": {
-      "codepoint": 61837,
+      "codepoint": 61839,
       "source": "./src/svg/wireless.svg"
     },
     "wordpress": {
-      "codepoint": 61838,
+      "codepoint": 61840,
       "source": "./src/svg/wordpress.svg"
     },
     "x11": {
-      "codepoint": 61839,
+      "codepoint": 61841,
       "source": "./src/svg/x11.svg"
+    },
+    "zenOSmosis": {
+      "codepoint": 61842,
+      "source": "./src/svg/zenOSmosis.svg"
     }
   },
   "options": {

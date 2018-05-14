@@ -164,6 +164,7 @@
 .icon-script-alt:before,
 .icon-shell:before,
 .icon-sitefinity:before,
+.icon-socket-io:before,
 .icon-solaris:before,
 .icon-splatter:before,
 .icon-spring:before,
@@ -175,9 +176,11 @@
 .icon-ubuntu:before,
 .icon-unity:before,
 .icon-virtualbox:before,
+.icon-web-rtc:before,
 .icon-wireless:before,
 .icon-wordpress:before,
-.icon-x11:before {
+.icon-x11:before,
+.icon-zenOSmosis:before {
   display: inline-block;
   font-family: "FontMfizz";
   font-style: normal;
@@ -322,17 +325,20 @@
 .icon-script-alt:before { content: "\f17f"; }
 .icon-shell:before { content: "\f180"; }
 .icon-sitefinity:before { content: "\f181"; }
-.icon-solaris:before { content: "\f182"; }
-.icon-splatter:before { content: "\f183"; }
-.icon-spring:before { content: "\f184"; }
-.icon-suse:before { content: "\f185"; }
-.icon-svg:before { content: "\f186"; }
-.icon-symfony:before { content: "\f187"; }
-.icon-tomcat:before { content: "\f188"; }
-.icon-typescript-alt:before { content: "\f189"; }
-.icon-ubuntu:before { content: "\f18a"; }
-.icon-unity:before { content: "\f18b"; }
-.icon-virtualbox:before { content: "\f18c"; }
-.icon-wireless:before { content: "\f18d"; }
-.icon-wordpress:before { content: "\f18e"; }
-.icon-x11:before { content: "\f18f"; }
+.icon-socket-io:before { content: "\f182"; }
+.icon-solaris:before { content: "\f183"; }
+.icon-splatter:before { content: "\f184"; }
+.icon-spring:before { content: "\f185"; }
+.icon-suse:before { content: "\f186"; }
+.icon-svg:before { content: "\f187"; }
+.icon-symfony:before { content: "\f188"; }
+.icon-tomcat:before { content: "\f189"; }
+.icon-typescript-alt:before { content: "\f18a"; }
+.icon-ubuntu:before { content: "\f18b"; }
+.icon-unity:before { content: "\f18c"; }
+.icon-virtualbox:before { content: "\f18d"; }
+.icon-web-rtc:before { content: "\f18e"; }
+.icon-wireless:before { content: "\f18f"; }
+.icon-wordpress:before { content: "\f190"; }
+.icon-x11:before { content: "\f191"; }
+.icon-zenOSmosis:before { content: "\f192"; }
